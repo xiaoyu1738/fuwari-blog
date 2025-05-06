@@ -57,14 +57,14 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Bilibili",
-			icon: "simple-icons:bilibili", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:bilibili", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "http://space.bilibili.com/1278362623?spm_id_from=333.1007.0.0",
 		},
 		{
 			name: "Discord",
-			icon: "skill-icons:discord",
+			icon: "fa6-brands:discord",
 			url: "@flnfish",
 		},
 		{
